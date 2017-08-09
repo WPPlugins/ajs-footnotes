@@ -1,0 +1,3 @@
+@CHARSET "ISO-8859-1";
+.padding-details, .corner-details {display:none;}
+.padding-details td, .padding-details th, .corner-details td,  .corner-details th {padding-left:25px;}
